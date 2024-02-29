@@ -1,9 +1,6 @@
 <h1 align="center">Welcome to Reddit Clone 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/mtalalj" target="_blank">
-    <img alt="Twitter: mtalalj" src="https://img.shields.io/twitter/follow/mtalalj.svg?style=social" />
-  </a>
 </p>
 
 > ## Reddit Clone
@@ -65,17 +62,14 @@ yarn run start
 
 ## Author
 
-👤 **Talal**
+👤 **Usama**
 
-- Twitter: [@mtalalj](https://twitter.com/mtalalj)
-- Github: [@itxtalal](https://github.com/itxtalal)
-- LinkedIn: [@itxtalal](https://linkedin.com/in/itxtalal)
+- Github: [@usama-yaseen](https://github.com/usama-yaseen)
+- LinkedIn: [@usama-yaseen](https://linkedin.com/in/usama-yaseen)
 
 ## Show your support
 
 <p>Give a ⭐️ if this project helped you!</p>
-<a href="https://www.buymeacoffee.com/itxtalal"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/usamayaseen"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 ---
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
